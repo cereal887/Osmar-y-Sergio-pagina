@@ -1,4 +1,4 @@
-# 
+ 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -38,8 +38,7 @@
  BLOQUE 3: PROYECTOS TECNOLÓGICOS
 <p> Hernández Carmona Osmar Yahir y Huerta Barona Sergio
 
-</font>
-</body>
+
 
 <font>
 
